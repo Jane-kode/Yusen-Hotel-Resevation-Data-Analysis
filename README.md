@@ -4,6 +4,10 @@
 
 The project aims to analyze historical hotel reservation data to uncover trends, identify key business insights, and support data-driven decision-making. This includes improving customer satisfaction, increasing revenue, and optimizing operational efficiency.
 
+
+
+![Jane's project pic 2](https://github.com/user-attachments/assets/309b417b-17f8-42cb-afdd-7928967005b7)
+
 ### Scope:
 
 1. Understand booking patterns (e.g., peak seasons, booking channels, lead times).
